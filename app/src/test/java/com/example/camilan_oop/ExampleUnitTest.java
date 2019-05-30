@@ -1,4 +1,4 @@
-package com.example.yudhadwiputra.hello;
+package com.example.camilan_oop;
 
 import org.junit.Test;
 
